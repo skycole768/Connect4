@@ -1,0 +1,15 @@
+Coleman-Skyler-proj3:
+total 48
+-rw-r--r--. 1 myid 4351 Apr  4 16:31 Board.cpp
+-rw-r--r--. 1 myid 2779 Apr  4 15:40 Board.h
+-rw-r--r--. 1 myid  467 Apr  4 09:52 HumanPlayer.cpp
+-rw-r--r--. 1 myid  681 Apr  4 16:21 HumanPlayer.h
+-rw-r--r--. 1 myid  761 Mar 31 23:12 Makefile
+-rw-r--r--. 1 myid  374 Apr  4 15:54 Player.cpp
+-rw-r--r--. 1 myid 1089 Apr  4 16:21 Player.h
+-rw-r--r--. 1 myid 2743 Apr  4 16:36 proj3.cpp
+-rw-r--r--. 1 myid  304 Apr  4 16:50 README
+-rw-r--r--. 1 myid    0 Apr  4 16:52 rec14627
+-rw-r--r--. 1 myid  457 Apr  4 16:39 SimpleComputerPlayer.cpp
+-rw-r--r--. 1 myid  495 Apr  4 16:06 SimpleComputerPlayer.h
+/home/myid/spc69655/Coleman-Skyler-proj3:/home/myid/csci-1730

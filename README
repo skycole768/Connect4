@@ -1,0 +1,24 @@
+# Proj 03
+
+Skyler Coleman (811-307-452)
+
+## Instrutions
+
+To compile my code, type:
+
+$ make compile
+
+To run my code, (format: ./proj3.out -h -h) or
+(format: ./proj3.out -c -c) type:
+
+$ ./proj3.out -h -c
+
+$ ./proj3.out -h -h
+
+$ ./proj3.out -c -h
+
+$ ./proj3.out -c -c
+
+To clean my code, type:
+
+$ make clean
